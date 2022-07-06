@@ -1,1 +1,1 @@
-Python import modules
+0 -> importing functions simple
