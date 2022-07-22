@@ -1,9 +1,7 @@
 #!/usr/bin/python3
-""" nothing used """
+"""Defines a Rectangle class."""
 
 
-class Rectangle():
-    """ a rectangle class """
-
-    def __init__(self):
-        pass
+class Rectangle:
+    """Represent a rectangle."""
+    pass

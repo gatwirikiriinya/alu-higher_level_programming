@@ -1,1 +1,1 @@
-0 -> empty rectangle class
+Python-More Classes and Objects
