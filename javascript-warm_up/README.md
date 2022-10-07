@@ -1,1 +1,1 @@
-This is basic javascript
+0. First constant, first print
